@@ -1,4 +1,12 @@
 Starter
 =======
 
-A starter template for my projects. Will condense and refine my favorite Grunt and boilerplate techniques here.
+>"As Vance grew weary of setting up yet another project, he decided to create a starter template for all future projects - one that he could steadily refine and improve over time  with all the new things he learns every day." - *Annals of Modern Web Development, vol. MMXIV*
+
+## Simple Server
+
+> Serving Suggestion: [Play this](https://www.youtube.com/watch?v=GyAJ4V06izg&feature=kp) and shout "SERVER!" each tim you hear "song".
+
+To Start:
+
+`node server`
