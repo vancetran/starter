@@ -5,7 +5,7 @@ Starter
 
 ## Simple Server
 
-> Serving Suggestion: [Play this](https://www.youtube.com/watch?v=GyAJ4V06izg&feature=kp) and shout "SERVER!" each tim you hear "song".
+> Serving Suggestion: [Play this](https://www.youtube.com/watch?v=GyAJ4V06izg&feature=kp) and shout "SERVER!" each time you hear "song".
 
 To Start:
 
