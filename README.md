@@ -7,6 +7,6 @@ Starter
 
 > Serving Suggestion: [Play this](https://www.youtube.com/watch?v=GyAJ4V06izg&feature=kp) and shout "SERVER!" each tim you hear "song".
 
-To Start:
+To Start (port is optional, defaults to 8080):
 
-`node server`
+`node server [port]`
