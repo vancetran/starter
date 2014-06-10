@@ -1,3 +1,7 @@
+# Temp & build files
+.tmp/
+build/
+
 # ---------------------------------------------------------
 # Sublime Text
 *.sublime-project
