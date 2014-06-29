@@ -11,20 +11,20 @@ Run these commands to install required Node modules and various libraries/framew
 
 ### Node Modules
 
-```
+```sh
 $ npm install
 ```
 
 ### Bower
 
-```
+```sh
 $ npm install -g bower
 $ bower install
 ```
 
 ### Grunt
 
-```
+```sh
 $ npm install -g grunt
 $ npm install -g grunt-cli
 ```
@@ -35,4 +35,6 @@ $ npm install -g grunt-cli
 
 To Start:
 
-`$ node server`
+```sh
+$ node server
+```
