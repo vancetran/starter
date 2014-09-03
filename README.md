@@ -33,8 +33,28 @@ $ npm install -g grunt-cli
 
 > Serving Suggestion: [Play this](https://www.youtube.com/watch?v=GyAJ4V06izg&feature=kp) and shout "SERVER!" each time you hear "song".
 
-To Start:
+To start server and open a new browser window pointing at the dev environment:
 
 ```sh
 $ node server
+```
+
+Start a server and view the results of a build
+
+```sh
+$ node server build
+```
+
+## Development and Building
+
+### During development: Watch your Less and convert to CSS on file change
+
+```sh
+$ grunt dev
+```
+
+### Generate a build: Concatenates, minifies, and copies files to /build
+
+```sh
+$ grunt
 ```
