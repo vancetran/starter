@@ -47,13 +47,17 @@ $ node server build
 
 ## Development and Building
 
-### During development: Watch your Less and convert to CSS on file change
+### During development
+
+Watch your Less and convert to CSS on file change
 
 ```sh
 $ grunt dev
 ```
 
-### Generate a build: Concatenates, minifies, and copies files to /build
+### Generate a build
+
+Concatenates, minifies, and copies files to /build
 
 ```sh
 $ grunt
